@@ -8,13 +8,8 @@
     <title>Document</title>
 </head>
 <body>
-    <header>
-        <h1>Esta es una receta</h1>
-
-    </header>
-
-    <main>
-        <p>Esto es un parrafo</p>
-    </main>
+    <?php require_once ("header.php"); ?>
+    <?php require_once ("mainh.php"); ?>
+    
 </body>
 </html>
