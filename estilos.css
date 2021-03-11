@@ -1,0 +1,18 @@
+.imagen{
+    width: 40%;
+    display: block;
+    margin: auto;
+    border-radius: 5px;
+}
+
+body{
+   background-color: #eef070; 
+}
+
+.letra{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+footer{
+    text-align: center;
+}

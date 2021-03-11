@@ -1,1 +1,1 @@
-<footer> Derechos reservados </footer>
+<footer> <b>Derechos reservados</b> </footer>
